@@ -6,7 +6,7 @@ Palavras-Chave: Pneumonia, Redes Neuronais Convolucionais, Imagem de Raio-X
 
 
  
-					Using Deep Learning to Identify Pneumonia in X-Ray Images
+							Using Deep Learning to Identify Pneumonia in X-Ray Images
 
 
 Abstract
